@@ -4,6 +4,7 @@
 - Este projeto fez parte de um Desafio chamado '#5DataGlowUp' que acontece no Linkedin, promovido por Heitor Sasaki, que ocorreu em abril de 2023;
 - Os dados correspondem a corridas que aconteceram entre 1950 a 2019, com informações como ano de ocorrência, rodada, nome da corrida, data, circuito, número, posição, nome e sobrenome dos pilotos, nacionalidade, escuderia, resultados em grids e voltas, entre outros;
 - Houve a manipulação da tabela original, com criação de uma nova coluna chamada 'Country' a partir de 'nationality' para ser usada em um mapa interativo. Além disso, a tabela .xls foi transformada em arquivo .csv e incorporada ao Looker Data Studio;
+![alt text](https://github.com/ayportella/dataviz/blob/main/03_looker_formula1/tabela_dados.PNG)
 - Os resultados eram livres, e eu decidi usar um dashboard para extrair insights em relação à história da Fórmula 1;
 - Foram adicionados como controles de 'drop-down list' as informações de 'season' e 'round', a fim de filtrar por esses dois tipos de informação.
 

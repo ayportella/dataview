@@ -18,5 +18,7 @@
 ## Dashboard
 [Você pode ver o dashboard aqui!](https://lookerstudio.google.com/u/0/reporting/7fa0f42c-f92e-4537-b232-8f6f8813b61c/page/ZZaOD)
 
+![alt text](https://github.com/ayportella/projects_dataviz/blob/main/03_looker_formula1/dashboard_formula1.PNG)
+
 
 

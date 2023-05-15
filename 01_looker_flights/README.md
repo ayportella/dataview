@@ -1,7 +1,7 @@
 # Projeto de Visualização de Dados em Looker - Case Flights
 
 ## Sobre o projeto:
-- O presente projeto  é resultado de um dos módulos do curso Analista de Dados da Escola Britânica de Artes Criativas e Tecnologia (EBAC), e corresponde ao meu primeiro dashboard criado, a fim de entender como criar métricas;  
+- O presente projeto  é resultado de um dos módulos do curso Analista de Dados da Escola Britânica de Artes Criativas e Tecnologia (EBAC), e corresponde ao meu primeiro dashboard criado, a fim de entender como criar métricas e criar dashboards no Looker;  
 - A base de dados escolhida foi o dataset 'flights' da biblioteca Seaborn, que informa o número de passageiros em voos de avião que ocorreram entre 1949 a 1960 separados por mês;
 -  Também houve uma etapa de extração, transformação e carregamento (ETL) em linguagem Python a fim de preparar os dados para serem entendidos pela plataforma escolhida, o Looker Data Studio. A coluna 'month' teve de ser transformada de texto para número, e houve a criação de uma chave temporal no formato YYYY-MM através da concatenação das colunas 'year' e 'month';
 -  Foi criado um campo parse_date para a coluna 'year-month' no Looker;

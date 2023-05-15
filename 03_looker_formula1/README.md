@@ -20,7 +20,7 @@
 
 ![alt text](https://github.com/ayportella/projects_dataviz/blob/main/03_looker_formula1/dashboard_formula1.PNG)
 
-Obs.: clique no dashboard para uma visualização completa do dashboard!
+Obs.: clique no link para uma visualização completa do dashboard!
 
 
 

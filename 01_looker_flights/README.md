@@ -13,3 +13,5 @@
 
 ## Dashboard:
 [Você pode ver o dashboard aqui!](https://colab.research.google.com/drive/1Co6RQ6QxAPodyYcmIru0dPqQQYxDfWHY?usp=sharing)
+
+![alt text](https://github.com/ayportella/dataviz/blob/main/01_looker_flights/flights_dashboard_image.PNG)

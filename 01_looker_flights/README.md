@@ -12,6 +12,6 @@
 - Também é evidente que o número de passageiros foi crescente a cada ano, o que indica que houve maior possibilidade de acesso das pessoas a custear passagens de avião.
 
 ## Dashboard:
-[Você pode ver o dashboard aqui!](https://colab.research.google.com/drive/1Co6RQ6QxAPodyYcmIru0dPqQQYxDfWHY?usp=sharing)
+[Você pode manipular o dashboard aqui!](https://colab.research.google.com/drive/1Co6RQ6QxAPodyYcmIru0dPqQQYxDfWHY?usp=sharing)
 
 ![alt text](https://github.com/ayportella/dataviz/blob/main/01_looker_flights/flights_dashboard_image.PNG)

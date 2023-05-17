@@ -9,7 +9,7 @@
 
 ## Principais insights percebidos:
 - Na área do gráfico, é possível perceber uma distribuição bimodal em cada ano, com pico no mês de março e outro maior no mês de julho, e um pico discreto no mês de dezembro. Isso é relacionado a períodos de feriados e férias, em que há maior demanda de vôos.
-- Também é evidente que o número de passageiros foi crescente a cada ano, o que indica que houve maior possibilidade de acesso das pessoas a custear passagens de avião.
+- Também é evidente que o número de passageiros foi crescente a cada ano, o que indica que houve maior possibilidade de acesso das pessoas a custear passagens de avião, assim como a logística de mais vôos das empresas foi acompanhando essa demanda.
 
 ## Dashboard:
 [Você pode manipular o dashboard aqui!](https://colab.research.google.com/drive/1Co6RQ6QxAPodyYcmIru0dPqQQYxDfWHY?usp=sharing)

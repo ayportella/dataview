@@ -8,7 +8,7 @@
 - A métrica criada foi a soma de passageiros em um determinado ano.
 
 ## Principais insights percebidos:
-- Na área do gráfico, é possível perceber uma distribuição bimodal em cada ano, com pico no mês de março e outro maior no mês de julho, e um pico discreto no mês de dezembro.
+- Na área do gráfico, é possível perceber uma distribuição bimodal em cada ano, com pico no mês de março e outro maior no mês de julho, e um pico discreto no mês de dezembro. Isso é relacionado a períodos de feriados e férias, em que há maior demanda de vôos.
 - Também é evidente que o número de passageiros foi crescente a cada ano, o que indica que houve maior possibilidade de acesso das pessoas a custear passagens de avião.
 
 ## Dashboard:

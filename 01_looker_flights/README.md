@@ -12,6 +12,6 @@
 - Também é evidente que o número de passageiros foi crescente a cada ano, o que indica que houve maior possibilidade de acesso das pessoas a custear passagens de avião, assim como a logística de mais vôos das empresas foi acompanhando essa demanda.
 
 ## Dashboard:
-[Você pode manipular o dashboard aqui!](https://lookerstudio.google.com/u/0/reporting/fdf0161c-4bb6-4013-89e5-f9d5984212df/page/ymqDD/edit)
+[Você pode manipular o dashboard aqui!](https://lookerstudio.google.com/s/pe9IXl50Yvs)
 
 ![alt text](https://github.com/ayportella/dataviz/blob/main/01_looker_flights/flights_dashboard_image.PNG)

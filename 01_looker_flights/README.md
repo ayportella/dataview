@@ -1,4 +1,4 @@
-# Projeto de Visualização de Dados em Looker - Case Flights
+# Projeto de Visualização de Dados em Looker - Flights Case
 
 ## Sobre o projeto:
 - O presente projeto  é resultado de um dos módulos do curso Analista de Dados da Escola Britânica de Artes Criativas e Tecnologia (EBAC), e corresponde ao meu primeiro dashboard criado, a fim de entender como criar métricas e montar dashboards no Looker;  
